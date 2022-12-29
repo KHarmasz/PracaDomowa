@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Konrad\Konrad\obj\Debug\netcoreapp3.1\Konrad.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Konrad\Konrad\obj\Debug\netcoreapp3.1\Konrad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Konrad\Konrad\obj\Debug\netcoreapp3.1\Konrad.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Konrad\Konrad\obj\Debug\netcoreapp3.1\Konrad.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Konrad\Konrad\obj\Debug\netcoreapp3.1\Konrad.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Konrad\Konrad\bin\Debug\netcoreapp3.1\Konrad.exe
+C:\Users\Administrator\source\repos\Konrad\Konrad\bin\Debug\netcoreapp3.1\Konrad.deps.json
+C:\Users\Administrator\source\repos\Konrad\Konrad\bin\Debug\netcoreapp3.1\Konrad.runtimeconfig.json
+C:\Users\Administrator\source\repos\Konrad\Konrad\bin\Debug\netcoreapp3.1\Konrad.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Konrad\Konrad\bin\Debug\netcoreapp3.1\Konrad.dll
+C:\Users\Administrator\source\repos\Konrad\Konrad\bin\Debug\netcoreapp3.1\Konrad.pdb
+C:\Users\Administrator\source\repos\Konrad\Konrad\obj\Debug\netcoreapp3.1\Konrad.dll
+C:\Users\Administrator\source\repos\Konrad\Konrad\obj\Debug\netcoreapp3.1\Konrad.pdb
+C:\Users\Administrator\source\repos\Konrad\Konrad\obj\Debug\netcoreapp3.1\Konrad.genruntimeconfig.cache
